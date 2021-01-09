@@ -1,6 +1,6 @@
 # MSDS 7337 Natural Launguage Processing
 ## Introduction
-The purpose of this repository is to share my work in order to complete the Masters of Science in Data Science 7337 Natural Language Processing course for Southern Methodist University. This work was completed in ipynb documents using jupyter notebook/lab. 
+The purpose of this repository is to share my work in order to complete the Masters of Science in Data Science 7337 Natural Language Processing course for Southern Methodist University. Each Unit folder contains the PPTs, homework assignment, and my solutions for that week. This work was completed in ipynb documents using jupyter notebook/lab. 
 
 ## Github Case Study Structure
 * [Unit 1] - Introduction to NLP
