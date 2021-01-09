@@ -3,21 +3,21 @@
 The purpose of this repository is to share my work in order to complete the Masters of Science in Data Science 7337 Natural Language Processing course for Southern Methodist University. This work was completed in ipynb documents using jupyter notebook/lab. 
 
 ## Github Case Study Structure
-* [Unit 1] - 
-* [Unit 2] - 
-* [Unit 3] - 
-* [Unit 4] - 
-* [Unit 5] - 
-* [Unit 6] - 
-* [Unit 7] - 
-* [Unit 8] - 
-* [Unit 9.Midterm] - 
-* [Unit 10] - 
-* [Unit 11] - 
-* [Unit 12] - 
-* [Unit 13] - 
-* [Unit 14] - 
-* [Unit 15.Final] - 
+* [Unit 1] - Introduction to NLP
+* [Unit 2] - Levels of Analysis in NLP
+* [Unit 3] - Tade-Offs in NLP
+* [Unit 4] - Working in NLP
+* [Unit 5] - Low-Level Analysis
+* [Unit 6] - Lexical Knowldge Bases
+* [Unit 7] - Syntactic Analysis: POS Tagging
+* [Unit 8] - Syntactic Analysis: Parsing
+* [Unit 9] - Midterm
+* [Unit 10] - Semantic Analysis: Semantic Relatedness
+* [Unit 11] - Semantic Analysis: Document Clustering
+* [Unit 12] - Semantic Analysis: Document Classification
+* [Unit 13] - Semantic Analysis: Topic Modeling
+* [Unit 14] - Semantic Analysis: Sentiment and Rhetoric
+* [Unit 15] - Final
 
 ## Contributor:
 Please feel free to reach out:
@@ -31,10 +31,10 @@ Please feel free to reach out:
  [Unit 6]: <>
  [Unit 7]: <>
  [Unit 8]: <>
- [Unit 9.Midterm]: <>
+ [Unit 9]: <>
  [Unit 10]: <>
  [Unit 11]: <>
  [Unit 12]: <>
  [Unit 13]: <>
  [Unit 14]: <>
- [Unit 15.Final]: <>
+ [Unit 15]: <>
