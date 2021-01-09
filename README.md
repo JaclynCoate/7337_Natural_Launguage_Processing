@@ -1,6 +1,6 @@
 # MSDS 7337 Natural Launguage Processing
 ## Introduction
-The purpose of this repository is to share my work in order to complete the Masters of Science in Data Science 7337 Natural Language Processing course for Southern Methodist University. Each Unit folder contains the PPTs, homework assignment, and my solutions for that week. This work was completed in ipynb documents using jupyter notebook/lab. 
+The purpose of this repository is to share my work in order to complete the Masters of Science in Data Science 7337 Natural Language Processing course for Southern Methodist University. Each Unit folder contains the PPTs, homework assignment, and my solutions for that week. The Glossary folder is an ongoing assignment in the class to tracked newly learned terms in my work. Lastly, the data folder is a dump of raw data sets I work through the entire semester as an easy reference for my ipynb notebooks. This work was completed in ipynb documents using jupyter notebook/lab. 
 
 ## Github Case Study Structure
 * [Unit 1] - Introduction to NLP
@@ -18,6 +18,7 @@ The purpose of this repository is to share my work in order to complete the Mast
 * [Unit 13] - Semantic Analysis: Topic Modeling
 * [Unit 14] - Semantic Analysis: Sentiment and Rhetoric
 * [Unit 15] - Final
+* [Glossary] - terms learned and documeneted throughout the semester.
 
 ## Contributor:
 Please feel free to reach out:
@@ -38,3 +39,4 @@ Please feel free to reach out:
  [Unit 13]: <>
  [Unit 14]: <>
  [Unit 15]: <>
+ [Glossary]: <>
