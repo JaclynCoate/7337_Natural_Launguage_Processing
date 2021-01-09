@@ -18,7 +18,7 @@ The purpose of this repository is to share my work in order to complete the Mast
 * [Unit 13] - Semantic Analysis: Topic Modeling
 * [Unit 14] - Semantic Analysis: Sentiment and Rhetoric
 * [Unit 15] - Final
-* [NLPGlossary] - terms learned and documeneted throughout the semester.
+* [NLPGlossary] - terms learned and documented throughout the semester.
 
 ## Contributor:
 Please feel free to reach out:
