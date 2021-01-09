@@ -19,6 +19,7 @@ The purpose of this repository is to share my work in order to complete the Mast
 * [Unit 14] - Semantic Analysis: Sentiment and Rhetoric
 * [Unit 15] - Final
 * [NLPGlossary] - terms learned and documented throughout the semester.
+* [Datasets] - semester data sets
 
 ## Contributor:
 Please feel free to reach out:
