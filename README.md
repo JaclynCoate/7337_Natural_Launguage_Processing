@@ -25,7 +25,7 @@ The purpose of this repository is to share my work in order to complete the Mast
 Please feel free to reach out:
  - Jaclyn Coate: jcoate@smu.edu 
  
- [Unit 1]: <>
+ [Unit 1]: <https://github.com/JaclynCoate/7337_Natural_Launguage_Processing/tree/main/Unit1>
  [Unit 2]: <>
  [Unit 3]: <>
  [Unit 4]: <>
@@ -40,5 +40,5 @@ Please feel free to reach out:
  [Unit 13]: <>
  [Unit 14]: <>
  [Unit 15]: <>
- [NLPGlossary]: <>
- [Datasets]: <>
+ [NLPGlossary]: <https://github.com/JaclynCoate/7337_Natural_Launguage_Processing/tree/main/NLPGlossary>
+ [Datasets]: <https://github.com/JaclynCoate/7337_Natural_Launguage_Processing/tree/main/Datasets>
